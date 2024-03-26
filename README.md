@@ -1,4 +1,4 @@
-# Fortran_1D_ShallowWaterEquations
+# 1-D Tsunami Simulator
 
 This program solves the shallow water equations, i.e., change of velocity and height of water by advection, in 1D using Fortran.
 Animation (Python) script is added to the original code.
