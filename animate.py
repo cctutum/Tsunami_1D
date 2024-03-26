@@ -4,6 +4,9 @@
 Created on Sun Mar 24 15:57:44 2024
 
 @author: ctutum
+
+This code is based on plot_water_height.py from Milan Curcic's book repo 
+(https://github.com/modern-fortran) which is also available in this repo.
 """
 
 import numpy as np
