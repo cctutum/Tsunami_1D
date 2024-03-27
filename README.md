@@ -8,5 +8,5 @@ Animation (Python) script is added to the original code.
 ![An animation of the 1-D tsunami simulator](https://github.com/cctutum/Tsunami_1D/blob/main/tsunami.gif)
 
 **Source:** 
-Modern Fortran - *Building Efficient Parallel Applications*
-Milan Curcic, 2020 Manning Publications Co.
+Modern Fortran: *Building Efficient Parallel Applications*
+by Milan Curcic, 2020 Manning Publications Co.
