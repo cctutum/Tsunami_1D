@@ -12,4 +12,4 @@ Animation (Python) script is added to the original code.
 Modern Fortran: *Building Efficient Parallel Applications*
 by Milan Curcic, 2020 Manning Publications Co.
 
-[Modern Fortran - Github repo](https://github.com/modern-fortran/tsunami)
+[Modern Fortran / tsunami / Github](https://github.com/modern-fortran/tsunami)
